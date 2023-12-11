@@ -1,0 +1,6 @@
+pip install provisioningserviceclient
+pip install azure-iotcentral-device-client
+pip install azure-iotcentral-devices
+pip install azure-iotcentral-models
+pip install azure-iotcentral-device-templates
+pip install requests
